@@ -1,0 +1,1 @@
+this project focuses on allowing user to bbok the laundry services from the app their devices
